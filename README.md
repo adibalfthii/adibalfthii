@@ -1,8 +1,5 @@
 ## hello, my name is Adib Al-Fathi.
 
-
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="<img width="498" height="498" alt="anime-sad-lonely" src="https://github.com/user-attachments/assets/a8361248-25bf-43ae-ac1b-94937ed19e5f" />
-"  />
-</div>
+<img width="500" height="500" alt="koooo" src="https://github.com/user-attachments/assets/7889759e-0d95-412b-971c-c8b5a372e042" />
 
